@@ -1,1 +1,41 @@
+commit 028734b40d08f0dc609a3214ed0f3c338c54805b
+Author: dogood95 <gabbilugod@gmail.com>
+Date:   Mon May 24 17:26:50 2021 +0100
 
+    made gitlog
+
+commit bf5eaaa4bfe5683e60229f7b3bbf2aa03f0a44a7
+Author: dogood95 <gabbilugod@gmail.com>
+Date:   Mon May 24 17:14:32 2021 +0100
+
+    added files and modified gitignore
+
+commit 0fe9d3803a1f45077ef1e5fa8fb75821fe309f98
+Author: dogood95 <gabbilugod@gmail.com>
+Date:   Mon May 24 17:11:52 2021 +0100
+
+    added gitignore
+
+commit 974793fee748b4a3c27136264ce91c6ed9538c46
+Author: dogood95 <gabbilugod@gmail.com>
+Date:   Mon May 24 17:03:24 2021 +0100
+
+    added both files
+
+commit 64ef51616add6ea0a0db546721b4f9c677f4e229
+Author: dogood95 <gabbilugod@gmail.com>
+Date:   Mon May 24 17:01:12 2021 +0100
+
+    added file
+
+commit 36bd03110c4331e424e26e0ed329862f1c299471
+Author: dogood95 <gabbilugod@gmail.com>
+Date:   Mon May 24 16:53:44 2021 +0100
+
+    added two files
+
+commit 11c98b11f1575f3ee713d550266602deaad7aa4f
+Author: dogood95 <gabbilugod@gmail.com>
+Date:   Mon May 24 16:48:20 2021 +0100
+
+    added
